@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "callback": "src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHFMP/curso-asincronismo.git"
+  },
+  "keywords": [
+    "asincronico"
+  ],
+  "author": "MHFMP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MHFMP/curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/MHFMP/curso-asincronismo#readme",
+  "description": ""
+}
