@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   },
   "name": "asincronismo",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "callback": "node src/callback/challenge.js"
   },
@@ -22,5 +22,6 @@
     "url": "https://github.com/MHFMP/curso-asincronismo/issues"
   },
   "homepage": "https://github.com/MHFMP/curso-asincronismo#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
